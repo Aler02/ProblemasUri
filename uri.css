@@ -1,0 +1,20 @@
+h1
+{
+	color: #8E44AD;
+	font-family: 'Sketch 3D';
+	font-size: 50px;
+}
+a
+{
+	text-decoration: none;
+	font-size: 25px;
+	color: black;
+}
+a:hover
+{
+	color: red;
+}
+.link
+{
+	margin-left: 15px;
+}
