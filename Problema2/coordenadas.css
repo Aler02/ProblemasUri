@@ -1,0 +1,70 @@
+b
+{
+	color: #8E44AD;
+	font-family: 'Sketch 3D';
+	font-size:50px;
+}
+.b2
+{
+	font-size: 15px;
+}
+.sub
+{
+	font-size: 23px;
+	font-weight: bold;
+}
+p
+{
+	font-size: 20px;
+}
+th, td {
+  border: 1px solid black;
+  padding: 5px;
+}
+table {
+  border-spacing: 15px;
+}
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+a
+{
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+}
+a:hover
+{
+	color: red;
+}
+label
+{
+	font-size: 20px;
+	color: red;
+}
+#numero
+{
+	outline: none;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	width: 50px;
+}
+#numero2
+{
+	outline: none;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	width: 50px;
+}
+#button
+{
+	background-color: white;
+	font-size: 16px;
+	border:0;
+}
+#button:hover
+{
+	color:#8E44AD;
+}
