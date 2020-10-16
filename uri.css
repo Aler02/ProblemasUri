@@ -4,6 +4,10 @@ h1
 	font-family: 'Sketch 3D';
 	font-size: 50px;
 }
+.link
+{
+	margin-left: 15px;
+}
 a
 {
 	text-decoration: none;
@@ -13,8 +17,4 @@ a
 a:hover
 {
 	color: red;
-}
-.link
-{
-	margin-left: 15px;
 }
